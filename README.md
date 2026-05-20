@@ -1,6 +1,6 @@
-# Satya Protocol: AI-Verified Decentralized Escrow
+# TrustChain: AI-Verified Decentralized Escrow
 
-Satya Protocol is an event-driven, blockchain-based escrow system designed to ensure transparency in non-governmental organization (NGO) and public funding. It integrates decentralized storage and local, vision-based LLMs to automatically verify real-world proof of work before releasing funds to vendors.
+TrustChain is an event-driven, blockchain-based escrow system designed to ensure transparency in non-governmental organization (NGO) and public funding. It integrates decentralized storage and local, vision-based LLMs to automatically verify real-world proof of work before releasing funds to vendors.
 
 ## Problem Statement
 
